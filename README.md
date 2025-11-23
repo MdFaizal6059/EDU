@@ -25,12 +25,12 @@ It helps learners:
 
 ## 👨‍👩‍👧‍👦 Team Members
 
-| Team Member | Role | Institution |
-|-------------|------|-------------|
-| **Zidan Beig** | Developer & AI Research | |
-| **Badra Zarif** | Content & UX Strategist | |
-| **Shafqat Hussain** | Technical Architect | |
-| **Mohammed Faizal** | Project Lead & Developer | The New College, Chennai |
+| Team Member | Role | 
+|-------------|------|
+| **Zidan Beig** | Developer & AI Research | 
+| **Badra Zarif** | Content & UX Strategist | 
+| **Shafqat Hussain** | Technical Architect | 
+| **Mohammed Faizal** | Project Lead & Developer 
 
 ✨ Together, we are on a mission to build an AI-driven educational companion that supports structured, meaningful learning.
 
